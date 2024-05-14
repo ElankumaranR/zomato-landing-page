@@ -12,6 +12,12 @@
     color: white;
     min-height: 60vh;
 }
+.link{
+    transition: all 0.3s ease;
+}
+.link:hover{
+    font-size:16px;
+}
 
 .navbar{
     padding: 16px 40px;
